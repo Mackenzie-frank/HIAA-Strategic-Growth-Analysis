@@ -1,7 +1,7 @@
 # HIAA-Strategic-Growth-Analysis
 Strategic growth analysis for Halifax International Airport Authority(HIAA): Evaluating investment tradeoffs between seasonal European tourism and year-round flights to the US.
 
-## The Decision
+## Decision Statement
 **Should the Senior Leadership Team of the Halifax International Airport Authority (HIAA) prioritize incentive funding for seasonal European expansion to boost high-value tourism, or focus on year-round transborder connectivity to ensure regional economic stability?**
 
 ## Executive Summary
