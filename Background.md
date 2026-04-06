@@ -1,18 +1,23 @@
 # Project Background: HIAA Strategic Growth Analysis
 
-## Background
+## Background 
+### Why This Decision Matters: The Economic Stakes
 
-### Why This Decision Matters
-Halifax Stanfield International Airport (YHZ) is the primary economic gateway for Atlantic Canada, recently reaching a significant milestone of 4.1 million annual passengers. The Halifax International Airport Authority (HIAA) Senior Leadership Team (SLT) is responsible for managing this growth to maximize regional economic impact. Because air service development requires significant financial incentive funding—subsidies or fee waivers used to attract airlines—the SLT must choose where to allocate limited resources. A strategic misstep could lead to underutilized infrastructure or a lack of year-round economic stability for the province.
+Halifax Stanfield International Airport (YHZ) serves as the primary economic gateway for Atlantic Canada and a critical engine for regional prosperity. Recently, the airport reached a landmark milestone of 4.1 million annual passengers, signaling the beginning of a robust new growth phase for the region. For the Senior Leadership Team (SLT) of the Halifax International Airport Authority (HIAA), this growth presents a complex management challenge. The stakes are exceptionally high because air service development is not a passive occurrence; it requires the strategic allocation of "incentive funding"—which includes financial subsidies, marketing support, or landing fee waivers—to attract and retain airlines in a competitive global market.
 
-### Decision Tensions and Trade-offs
-The core difficulty of this decision lies in the trade-off between **seasonal value** and **year-round volume**
+Because these financial resources are finite, the SLT must choose where to place its bets. A strategic misstep in this allocation could lead to significant negative consequences, such as underutilized infrastructure during off-peak months or a lack of the consistent, year-round connectivity that Nova Scotian businesses require for long-term stability. This decision effectively determines the airport’s role in the regional economy for the next strategic cycle.
 
-* **Seasonal European Expansion:** These routes bring high-value international tourists who spend an average of $1,224 per person. However, these flights are typically seasonal, leading to "peak-load" issues where airport infrastructure is strained in the summer but underutilized in the winter.
-* **Year-Round Transborder (U.S.) Connectivity:** These routes provide the economic stability of consistent business travel and regional logistics. While they offer better long-term reliability and employment consistency, they often operate on lower immediate margins per passenger compared to transatlantic "bucket list" tourism.
+### Tensions and Trade-offs: The Difficulty of the Choice
 
-### Context and Current Approach
-Currently, HIAA is seeing a 19.3% surge in international travelers and an 8.5% increase in transborder traffic. While the airport has historically pursued a broad growth strategy, the post-2025 landscape requires more focused investment as the facility nears peak-season capacity. The current approach of "all-of-the-above" growth is becoming unsustainable due to limited incentive funds and the need to maintain regional economic resilience.
+The core difficulty of this decision lies in a fundamental trade-off between seasonal "value" and year-round "volume." This choice is non-obvious because both paths offer distinct advantages and significant risks.
+
+On one hand, prioritizing seasonal European expansion targets high-capacity transatlantic flights during the peak summer months. These routes are incredibly lucrative for the province, as international air travelers spend an average of $1,224 per person, providing a massive seasonal injection into the hospitality and tourism sectors. However, this model creates "peak-load" issues. The airport must maintain infrastructure and staffing levels capable of handling these summer surges, which then sit underutilized during the winter months, leading to operational inefficiencies and seasonal employment volatility.
+
+On the other hand, focusing on year-round transborder (U.S.) connectivity provides the economic "connective tissue" for the region. These routes support consistent business travel, specialized cargo logistics, and reliable regional employment that does not disappear when the leaves change. While these flights offer greater regional economic resilience, they typically operate on lower immediate profit margins per passenger compared to high-spending European "bucket list" tourism. The SLT is forced to navigate the tension between a short-term, high-value tourism spike and long-term, steady-state economic stability.
+
+### Context: Previous Approaches and Current Challenges
+
+Historically, HIAA has pursued a diversified "all-of-the-above" strategy, attempting to grow all sectors simultaneously. However, in the post-2025 landscape, this approach is becoming unsustainable. While international travel has surged by 19.3% and transborder traffic has increased by 8.5%, the airport is reaching its physical capacity limits during peak periods. With incentive funds limited and infrastructure nearing its maximum summer load, the SLT can no longer afford to be everything to everyone. They must now decide whether to double down on the high-value summer market or pivot their investment to secure the year-round hub access that keeps the Nova Scotian economy resilient throughout the entire year.
 
 ---
 
