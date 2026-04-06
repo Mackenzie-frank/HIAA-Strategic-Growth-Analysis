@@ -12,6 +12,9 @@ The airport’s Senior Leadership Team faces a recurring strategic choice regard
 
 This project analyzes which investment strategy best supports Nova Scotia’s long-term economic resilience. By evaluating the trade-offs between seasonal "value" and year-round "volume," this analysis provides a data-driven framework to help HIAA leadership maximize the airport’s regional economic contribution in upcoming strategic cycles.
 
+
+## Initial CLD Diagram
+
 ![Causal Loop Diagram](img/cld-draft.png)
 
 
