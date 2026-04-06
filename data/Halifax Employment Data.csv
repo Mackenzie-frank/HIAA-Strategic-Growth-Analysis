@@ -1,0 +1,35 @@
+﻿"Employment characteristics by economic region, annual 1 2 3"
+"Frequency: Annual"
+"Table: 14-10-0466-01"
+"Release date: 2026-01-09"
+"Geography: Canada, Province or territory, Economic region"
+""
+""
+
+,"Statistics","Estimate",,,,,,
+"Geography 4 5","Employment characteristics 6","2019","2020","2021","2022","2023","2024","2025"
+,,"Persons in thousands",,,,,,
+"Halifax, Nova Scotia","Total employed","233.0","228.1","242.0","253.3","263.5","277.4","280.6"
+,"Employees","208.7","202.7","214.6","225.3","235.3","254.0","252.7"
+,"Public sector employees 7","56.7","57.9","62.2","62.6","63.3","74.5","75.0"
+,"Private sector employees 8","152.0","144.8","152.4","162.7","172.0","179.5","177.8"
+,"Self-employed 9","24.3","25.4","27.4","27.9","28.2","23.4","27.9"
+
+
+
+
+Footnotes:
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are suppressed. Census metropolitan areas (CMAs) and economic regions (ERs) use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality."
+2,"For approximate quality indicators of the estimates, see tables 7.1 or 7.2 in the <a href="https://www150.statcan.gc.ca/n1/en/catalogue/71-543-G#wb-auto-2" rel="external noopener noreferrer" target="_blank">Guide to the Labour Force Survey (opens new window)</a>. For quality indicators of specific data points, contact statcan.labour-travail.statcan@canada.ca."
+3,"This new table replaces archived table 14-10-0392 and table 14-10-0420."
+4,"An economic region is a geographical unit generally composed of several census divisions within a province. While 73 regions are defined for the purposes of sampling, some areas are too small to enable production of independent estimates from the survey. These small regions are grouped with a neighbouring region with similar economic characteristics. In the case of Prince Edward Island, the province constitutes one economic region. For geographic descriptions of economic regions, refer to the <a href="https://www150.statcan.gc.ca/n1/en/catalogue/71-543-G#wb-auto-2" rel="external noopener noreferrer" target="_blank">Guide to the Labour Force Survey (opens new window)</a>."
+5,"Excluding the territories."
+6,"In this table, employment characteristics refers to class of worker, industry or occupation of the respondent at their main job. Industry refers to the general nature of the business carried out by the employer for whom the respondent works (main job only). Industry estimates in this table are based on the 2022 North American Industry Classification System (NAICS). Occupation refers to the kind of work persons 15 years of age and over were doing during the reference week, as determined by the kind of work reported and the description of the most important duties of the job. Occupation estimates are based on the 2021 National Occupational Classification (NOC)."
+7,"Those who work for a local, provincial or federal government, for a government service or agency, a crown corporation, or a government funded establishment such as a school (including universities) or hospital."
+8,"Those who work as employees of a private firm or business."
+9,"Includes both incorporated and unincorporated working owners, self-employed persons who do not have a business and persons working in a family business without pay."
+
+
+
+"How to cite: Statistics Canada. Table 14-10-0466-01  Employment characteristics by economic region, annual"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410046601
