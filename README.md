@@ -176,10 +176,33 @@ The option to focus on year-round transborder connectivity looks more promising 
 
 # 9. Recommendations 
 
+## Primary Strategic Recommendation
+It is recommended that the Senior Leadership Team of the Halifax International Airport Authority (HIAA) pivot its incentive funding strategy to prioritize year-round transborder (U.S.) connectivity as the primary driver for regional economic stability. While high-capacity seasonal European routes should remain a component of the portfolio, funding for these services should be restructured into a "Shoulder-Season Smoothing" model. This shift ensures that airport growth supports a viable, year-round provincial workforce rather than exacerbating the extreme seasonal volatility that currently threatens the long-term quality of Nova Scotia’s tourism product.
+
+## Summary of Evidence
+The data analysis reveals a "Shifting the Burden" system archetype where a reliance on seasonal peaks acts as a quick fix for revenue but undermines the fundamental goal of long-term stability. 
+* **Labor Inelasticity:** The "Employment vs. Passenger Traffic" visualization shows that while passenger volumes have surged aggressively—reaching peaks over 400,000 in Q3—industry employment has recovered at a much slower, linear rate. This gap indicates that seasonal surges are not translating into a robust, sustainable workforce.
+* **Concentrated Risk:** The "Seasonality Heatmap" identifies an extreme concentration of activity in the third quarter (Q3). Relying on this twelve-week window for the majority of the province's economic impact creates a fragile system vulnerable to external shocks.
+* **Market Resilience:** The "Visitor Origin" analysis confirms that the United States remains the largest single source of visitors. While international travelers spend a high average of $1,224 per person, the consistent volume provided by year-round transborder routes offers a more reliable foundation for permanent provincial employment than high-value but short-lived European charters.
+
+## Uncertainties and Conditions
+This recommendation assumes that U.S. demand remains stable and that border policies do not become significantly more restrictive. A major uncertainty remains regarding the impact of rising transatlantic carbon taxes and fuel surcharges, which could suddenly reduce the viability of European seasonal routes regardless of HIAA incentives. This strategy should be re-evaluated if European "high-value" yields begin to significantly outpace the economic benefits of year-round stability, or if a major competitor hub aggressively captures our core transborder market share.
+
+## Implementation and Next Steps
+* **Incentive Restructuring:** Negotiate new airline incentive tiers that offer higher rebates for routes operating a minimum of 10 months per year, specifically targeting "shoulder-season" expansion in May/June and September/October.
+* **Stakeholder Alignment:** Coordinate with Tourism Nova Scotia to develop "off-peak" marketing packages that coincide with new year-round transborder flight availability.
+* **Stability Monitoring:** Implement a new "Stability Metric" KPI to track the ratio of year-round to seasonal seat capacity.
+
+## Additional Information Required
+To further strengthen this analysis, HIAA should commission a granular study on service-sector retention rates within the province. Specifically, data is needed on how many seasonal workers would transition to full-time roles if year-round employment were available. Furthermore, an analysis of passenger "leakage" to competing regional hubs during the off-season would help quantify the total economic loss currently caused by our seasonal focus.
+
 ---
 
-# 10. Limitations and Future Work 
+# 10. Reflection
 
+This project highlighted the practical challenges of data-driven decision-making, however I did struggle with finding relevant data for completing this project. While there were some useful datasets regarding passenger data, I struggled to find specfic data for the times of years when demographics of passenger were travelling, as well as more specific financial data. I also struggled to find relevant employment data on a monthly basis in the tourism sector. 
+
+If I were to approach this project differently, I would explore alternative data sets for employment data. This project allowed me to advance my technical proficiency in Tableau and Tableau Prep, while cleaning data and combining multiple data sets.  It also  taught me about the struggles in business intelligenceand how to manage a lack of relevant data. 
 
 ---
 
