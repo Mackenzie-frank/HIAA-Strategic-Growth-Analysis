@@ -47,8 +47,6 @@ Historically, HIAA has pursued a diversified "all-of-the-above" strategy, attemp
 ---
 # 5. Data Sources
 
-# Dataset Documentation
-
 This directory contains the raw data files required for the HIAA Strategic Growth Analysis. These datasets provide the evidence for the "Value vs. Volume" trade-off between seasonal European tourism and year-round transborder connectivity.
 
 ---
