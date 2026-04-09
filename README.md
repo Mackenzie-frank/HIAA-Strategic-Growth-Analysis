@@ -1,10 +1,10 @@
 # 1. Project Title and Decision Statement
 Strategic growth analysis for Halifax International Airport Authority(HIAA): Evaluating investment tradeoffs between seasonal European tourism and year-round flights to the US.
 
-## Decision Statement
+### Decision Statement
 **Should the Senior Leadership Team of the Halifax International Airport Authority (HIAA) prioritize incentive funding for seasonal European expansion to boost high-value tourism, or focus on year-round transborder connectivity to ensure regional economic stability?**
 
-## 2. Executive Summary
+# 2. Executive Summary
 
 Following a period of significant expansion, Halifax Stanfield (YHZ) recently reached a milestone of **4.1 million annual passengers**, signaling a robust new growth phase for Atlantic Canada’s primary gateway (HIAA, 2026). This momentum is driven by two distinct market trends: a **19.3% surge** in international travelers, fueled by seasonal transatlantic expansion, and an **8.5% increase** in transborder (U.S.) traffic, supported by the entry of new year-round jet services (HIAA, 2026; Tourism Nova Scotia, 2025).
 
@@ -51,25 +51,25 @@ This directory contains the raw data files required for the HIAA Strategic Growt
 
 ---
 
-## 1. Monthly Screened Passenger Data (2019-2026).csv
+#### 1. Monthly Screened Passenger Data (2019-2026).csv
 * **Source:** Statistics Canada. Table 23-10-0312-01 Screened passenger traffic at the largest airports in Canada.
 * **Date Accessed:** April 6, 2026
 * **Usage Restrictions:** Statistics Canada Open Licence
 * **Description:** This dataset provides monthly counts of screened passengers at Halifax Stanfield (YHZ), broken down by sector (Domestic, Transborder, and Other International). It is used to analyze growth trends and seasonality patterns.
 
-## 2. Visitor Spending Data.csv
+#### 2. Visitor Spending Data.csv
 * **Source:** Statistics Canada. Table 24-10-0066-01 Visits, nights and spending for visitors to Canada by geography of visit, residency and mode of transport.
 * **Date Accessed:** April 6, 2026
 * **Usage Restrictions:** Statistics Canada Open Licence
 * **Description:** Quarterly data detailing the total and average spending of non-resident visitors to Nova Scotia. This allows for a comparison between the economic "Value" of Overseas (European) vs. U.S. visitors arriving by air.
 
-## 3. Tourism Nova Scotia Visitation (By Origin and Mode).csv
+#### 3. Tourism Nova Scotia Visitation (By Origin and Mode).csv
 * **Source:** Open Data Nova Scotia / Tourism Nova Scotia.
 * **Date Accessed:** April 6, 2026
 * **Usage Restrictions:** Open Government Licence - Nova Scotia
 * **Description:** Monthly visitation data for Nova Scotia categorized by origin (e.g., UK, Germany, USA regions) and mode of entry. This data is filtered for "Air" arrivals to isolate passengers relevant to HIAA operations.
 
-## 4. Halifax Employment Data.csv
+#### 4. Halifax Employment Data.csv
 * **Source:** Statistics Canada. Table 14-10-0466-01 Employment characteristics by economic region, annual.
 * **Date Accessed:** April 6, 2026
 * **Usage Restrictions:** Statistics Canada Open Licence
