@@ -136,7 +136,7 @@ In the HIAA context, there is a constant pressure to meet aggressive revenue and
 
 The Seasonality Heatmap shows an extreme concentration of traffic in Q3. Furthermore, the Employment vs. Passenger Traffic visualization shows that while passenger counts have surged aggressively, industry employment has only recovered at a slow, linear pace. This suggests that the "seasonal surge" strategy is not translating into a robust, scalable workforce, confirming that the current structure favors volatility over stability.
 
-###2. Scenario Narratives
+### 2. Scenario Narratives
 **Scenario 1: Status Quo (Continued Seasonal Prioritization)**
 
 Over the next 5-10 years, HIAA continues to prioritize seasonal European routes. Passenger volumes in Q3 continue to break records, but the provincial tourism workforce remains transient. Because employment is not year-round, skilled workers migrate to more stable sectors. By 2030, the "viability" of the tourism sector is compromised by a permanent service-quality gap during the summer rush, as local businesses struggle to find experienced staff for only four months of work.
@@ -152,11 +152,11 @@ HIAA implements a "Hybrid" incentive model that rewards airlines for expanding t
 ### 3. Leverage Point Analysis
 The most effective leverage point is redefining the "Incentive Success Metric" from Total Passenger Volume to Total Year-Round Seat Capacity.
 
-Why high impact: Currently, the system incentivizes "peaks." By shifting the goal to "year-round capacity," HIAA forces a structural change in how airlines plan their routes, which directly stabilizes the downstream provincial labor market.
+**Why high impact:** Currently, the system incentivizes "peaks." By shifting the goal to "year-round capacity," HIAA forces a structural change in how airlines plan their routes, which directly stabilizes the downstream provincial labor market.
 
-Feedback loops affected: This strengthens the Fundamental Solution in the Shifting the Burden archetype, reducing the long-term "burden" of seasonal instability.
+**Feedback loops affected:** This strengthens the Fundamental Solution in the Shifting the Burden archetype, reducing the long-term "burden" of seasonal instability.
 
-Risks: Short-term revenue might dip as high-capacity summer charters are deprioritized for smaller, consistent year-round regional jets.
+**Risks:** Short-term revenue might dip as high-capacity summer charters are deprioritized for smaller, consistent year-round regional jets.
 
 ### 4. Implications for the Decision
 The analysis reveals that while seasonal European flights provide an immediate "high-value" boost, they contribute to a cycle of seasonal instability that may eventually undermine the viability of Nova Scotia’s tourism product. Evidence from the heatmap and employment trends suggests that the "surge" in passengers is not being matched by a surge in workforce professionalization.
